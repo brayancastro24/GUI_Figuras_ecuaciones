@@ -196,3 +196,4 @@ butony=Button(pestaña2,width=2, height=1, text= "- ", command= disminuir)
 butony.place(x=180, y = 70)
 
 ventana.mainloop()
+#agregando un cambio 
